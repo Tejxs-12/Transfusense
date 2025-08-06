@@ -2,9 +2,8 @@
 
 TransfuSense is a multilingual, AI-powered assistant designed to support Thalassemia patients, caregivers, and healthcare providers. It helps manage complex lab reports, predicts transfusion timelines, and assists with blood availability through an accessible, intuitive interface — even in low-resource or rural areas.
 
-🔗 Live Demo: [Add your Streamlit/Hugging Face/Website link here]  
-📟️ Demo Video: [YouTube or Drive link]  
-🏆 Built for: [Hackathon Name] – Theme: Healthcare Innovation for Thalassemia
+📟️ Demo Video:(https://youtu.be/WEm_q5BLcyg)  
+🏆 Built for: Ai For Good Hackathon – Theme: Healthcare Innovation for Thalassemia
 
 ---
 
@@ -58,11 +57,6 @@ TransfuSense bridges this critical healthcare gap with AI.
 3. ✨ AI summarizes & translates output  
 4. 🗕️ Predicts next transfusion date  
 5. 🎧 Optional voice command interface
-
-🖼️ Screenshots:  
-- MoodBoard Muse (UI Concept)  
-- Layout Genie (Interactive panel)  
-- Transfusion Prediction Chart
 
 ---
 
