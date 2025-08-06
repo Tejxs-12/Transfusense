@@ -1,0 +1,26 @@
+# Virtual env
+.venv/
+env/
+ENV/
+venv/
+
+# Cache
+__pycache__/
+*.pyc
+
+# System
+*.dll
+*.lib
+*.exe
+
+# Large files
+*.pkl
+*.zip
+*.csv
+*.pt
+*.onnx
+
+# OS and misc
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/

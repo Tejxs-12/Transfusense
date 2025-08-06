@@ -1,0 +1,6 @@
+Date,Patient_Name,Hemoglobin (g/dL),WBC (x10^3/µL),Platelets (x10^3/µL),Serum Ferritin (ng/mL),Last Transfusion Date,Previous Transfusion Date
+2025-08-01,Rahul Verma,7.2,6.5,210,1850,2025-08-01,2025-07-07
+2025-07-07,Rahul Verma,7.4,6.8,200,1900,2025-07-07,2025-06-10
+2025-06-10,Rahul Verma,7.6,7.0,215,1950,2025-06-10,2025-05-15
+2025-05-15,Rahul Verma,7.3,6.9,205,1800,2025-05-15,2025-04-20
+2025-04-20,Rahul Verma,7.5,7.1,210,1750,2025-04-20,2025-03-25
